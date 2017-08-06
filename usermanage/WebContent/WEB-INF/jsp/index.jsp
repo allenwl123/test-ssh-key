@@ -118,6 +118,7 @@
 	        </div>
 	        <div data-options="region:'south', border:false" style="background-color: #E6EEF8; text-align: center;">
 	        	版权所有 COPYRIGHT 20170806
+	        	1
 	        </div>
 	    </div>
 	</body>
